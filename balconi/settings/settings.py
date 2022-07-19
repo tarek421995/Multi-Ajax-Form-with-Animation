@@ -28,8 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = ['0.0.0.0','*']
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER =  
-EMAIL_HOST_PASSWORD = 
+EMAIL_HOST_USER = 'tarekeesa7@gmail.com' 
+EMAIL_HOST_PASSWORD = 'dbcxwozolupiqjpf'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFUALT_FROM_EMAIL = "tarek Ecommerce <tarekeesa7@gmail.com>"
