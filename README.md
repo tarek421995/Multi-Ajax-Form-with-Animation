@@ -10,3 +10,5 @@ python version is 3.8
 2- source venv/bin/acitvate
 3- pip install -r requirments.txt
 4- python manage.py runesrver
+
+live demo on pythonanywhere http://tarek.pythonanywhere.com/
